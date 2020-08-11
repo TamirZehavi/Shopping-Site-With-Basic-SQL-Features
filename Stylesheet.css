@@ -1,0 +1,38 @@
+body {
+    background-color: #aeb6bf;
+}
+
+.bottom_buttons {
+    display: flex;
+    flex-direction: column;
+}
+
+.body_container {
+    margin-top: 2%;
+    width: 98%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.refresh_update_btn {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.form-control {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.table-dark {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    width: 90%;
+}
+
+.item_picture {
+    max-width: 200px;
+}
